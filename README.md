@@ -12,7 +12,7 @@
 1. Clone or download the project:
 
 ```bash
-git clone https://github.com/YourUsername/AddMe.git
+git clone https://github.com/LwandoMadebe/Password
 ```
 
 2. Open the `index.html` file in any web browser.
