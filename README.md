@@ -11,7 +11,9 @@
 ### How to Use
 1. Clone or download the project:
 
-```git clone https://github.com/YourUsername/AddMe.git```
+```bash
+git clone https://github.com/YourUsername/AddMe.git
+```
 
 2. Open the `index.html` file in any web browser.
 
