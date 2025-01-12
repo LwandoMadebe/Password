@@ -15,7 +15,7 @@
 git clone https://github.com/LwandoMadebe/Password
 ```
 
-2. Open the `index.html` file in any web browser.
+2. Open the `password.html` file in any web browser.
 
 3. Interact with the form:
 Enter a password in the input field.
