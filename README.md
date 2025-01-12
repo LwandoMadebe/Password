@@ -11,11 +11,10 @@
 ### How to Use
 1. Clone or download the project:
 
-`git clone https://github.com/YourUsername/AddMe.git`
+```git clone https://github.com/YourUsername/AddMe.git```
 
-Open the index.html file in any web browser.
+2. Open the `index.html` file in any web browser.
 
-Interact with the form:
-
+3. Interact with the form:
 Enter a password in the input field.
 Check the "Show Password" box to view your input.
