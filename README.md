@@ -20,3 +20,9 @@ git clone https://github.com/LwandoMadebe/Password
 3. Interact with the form:
 Enter a password in the input field.
 Check the "Show Password" box to view your input.
+
+### Technologies Used
+#### HTML: 
+Structure of the web page.
+CSS: Styling and layout design.
+JavaScript: Logic for password visibility toggle and form validation.
