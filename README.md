@@ -3,10 +3,12 @@
 ### Description
 "Password Checker" is a lightweight, user-friendly web application that includes a password input field with a visibility toggle feature. The goal is to enhance user experience while maintaining simplicity and accessibility.
 
-### Features
+### Key Features
 1. Password Visibility Toggle: Allows users to show or hide their password using a checkbox.
 2. Input Validation: Alerts users if the password field is left empty.
-3. Minimalist Design: Clean and responsive layout for an intuitive user experience.
+3. Copy Password (Easily copy to clipboard)
+4. Generate Secure Password (One-click strong password generation)
+5. Minimalist Design: Clean and responsive layout for an intuitive user experience.
 
 ### How to Use
 1. Clone or download the project:
