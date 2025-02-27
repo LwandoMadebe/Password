@@ -5,9 +5,13 @@
 
 ### 📌 Features
 ✅ Password Visibility Toggle: Allows users to show or hide their password using a checkbox.
+
 ✅ Input Validation: Alerts users if the password field is left empty.
+
 ✅ Copy Password (Easily copy to clipboard)
+
 ✅ Generate Secure Password (One-click strong password generation)
+
 ✅ Minimalist Design: Clean and responsive layout for an intuitive user experience.
 
 ### How to Use
