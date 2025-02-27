@@ -14,7 +14,7 @@
 
 ✅ Minimalist Design: Clean and responsive layout for an intuitive user experience.
 
-### How to Use
+### 🚀 How to Use
 1. Clone or download the project:
 
 ```bash
@@ -27,12 +27,11 @@ git clone https://github.com/LwandoMadebe/Password
 Enter a password in the input field.
 Check the "Show Password" box to view your input.
 
-### Technologies Used
+### 🖥️ Technologies Used
 1. HTML: Structure of the web page.
 2. CSS: Styling and layout design.
 3. JavaScript: Logic for password visibility toggle and form validation.
 
-### Future Improvements
-1. Add password strength validation rules (e.g., minimum length, special characters, etc.).
-2. Include backend support for saving passwords securely (e.g., hashed storage).
-3. Improve accessibility for screen readers and keyboard navigation
+### 💡Future Improvements
+1. Include backend support for saving passwords securely (e.g., hashed storage).
+2. Improve accessibility for screen readers and keyboard navigation
